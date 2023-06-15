@@ -16,7 +16,7 @@ def del_comida(comida):
 text_menu = '''
 Elige una opción:
     1 - Agregar Comida
-    2 - Eliminar Comida
+    2 - Eliminar Comida1
     3 -  Mostrar Comidas
     4 - Salir
 '''
